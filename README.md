@@ -1,4 +1,3 @@
-WHATSAPP BOT TUTORIAL
 
 $ pkg install git -y
 $ pkg install nodejs -y
@@ -20,4 +19,4 @@ Script: @Nurutomo
 
 </p>
 
-[GITHUB](https://github.com/Arya274)
+[GITHUB] (https: //github.com/NYX095
